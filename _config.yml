@@ -1,0 +1,17 @@
+title: Blog · fubxx
+url: "https://fubxx.github.io"
+baseurl: ""
+
+# 全局顶部导航栏配置。格式："名称=跳转链接"，名称和跳转链接之间用"="分隔。例如 "About=/about.html"
+nav:
+  - About=/about.html
+
+# 不要动这个配置：根据tag生成页面
+plugins:
+  - jekyll-archives
+# 不要动这个配置：根据tag生成页面
+jekyll-archives:
+  enabled: ['tags']
+  layout: tag_post_list
+  permalinks:
+    tag: '/tags/:name.html'
