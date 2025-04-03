@@ -8,21 +8,21 @@ date:   2025-04-03 16:01:18 +0800
 
 **Who Am I ?**
 
-​	•	**Bug Hunter**
+​	•	Bug Hunter
 
-​	•	**Red Team**
+​	•	Red Team
 
-​	•	**OSWP** (Offensive Security Wireless Professional)
+​	•	OSWP / OSCP / OSWE 
 
-​	•	**OSCP** (Offensive Security Certified Professional)
 
-​	•	**OSWE** (Offensive Security Web Expert)
 
 **Contact Me**
 
 ​	•	**Twitter：**fubxx/(@fishcccc)
 
 ​	•	**Email：**fub@163.com
+
+
 
 **Let’s Talk Bug Bounty**
 
