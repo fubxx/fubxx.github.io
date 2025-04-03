@@ -1,0 +1,2 @@
+# fubxx.github.io
+MyBlog
