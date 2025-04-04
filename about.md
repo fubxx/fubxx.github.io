@@ -24,4 +24,4 @@ date:   2025-04-03 16:01:18 +0800
 
 **Let’s Talk Bug Bounty**   
 
-I believe that sharing knowledge is essential for growth. I’m always eager to engage with others in the **Bug Bounty** community to exchange ideas and discuss new hunting techniques, methodologies, and experiences. Whether you’re a beginner or an expert, feel free to reach out and let’s talk about strategies for finding vulnerabilities and improving our skills together. Let’s learn and grow as a community!
+I believe that sharing knowledge is essential for growth. I’m always eager to engage with others in the Bug Bounty community to exchange ideas and discuss new hunting techniques, methodologies, and experiences. Whether you’re a beginner or an expert, feel free to reach out and let’s talk about strategies for finding vulnerabilities and improving our skills together. Let’s learn and grow as a community!
