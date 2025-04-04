@@ -8,6 +8,5 @@ tags:
 
 图片测试
 
-![image-20250404134145168](assets/image-20250404134145168.png)
+![image-20250404135719132](https://fubxx.github.io/assets/posts/2021-08-05-3-post.assets/image-20250404135719132.png)
 
-![image-20250404134209293](assets/image-20250404134209293.png)
