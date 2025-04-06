@@ -1,0 +1,29 @@
+---
+layout: post
+title: Bug Hunt Learning Resources for Beginners
+date: 2025-04-06 13:47:00.000000000 +08:00
+tags: 
+ - Learning Resources
+---
+
+This article is mainly intended to document and share some learning resources suitable for Bug Bounty beginners, including hands-on labs and online materials. I hope these resources can provide a clear starting point for newcomers, and also serve as a convenient reference for myself in the future.
+
+The first resource I highly recommend is the **PortSwigger Web Security Academy**, which is widely considered the best and most structured platform for Bug Bounty beginners. It’s completely free and created by the developers behind Burp Suite. The platform covers nearly all types of web vulnerabilities, making it essential for anyone starting out. Before diving into real-world hunting, beginners should go through the entire course—and for any vulnerability type you’re not confident in, it’s worth revisiting and practicing those specific modules until you’ve truly mastered them.
+
+```
+https://portswigger.net/web-security/all-labs
+```
+
+Next are the official blogs of Bug Bounty platforms such as **Yeswehack**, **intigriti**, and others. These blogs often provide in-depth write-ups and analyses focused on specific vulnerability types. They also share real-world case studies and advanced tips from top researchers, making them great resources for deepening your understanding of particular bugs.
+
+```
+https://www.yeswehack.com/blog/learn-bug-bounty?page=1
+```
+
+```
+https://www.intigriti.com/researchers/blog/hacking-tools
+```
+
+The third learning method is through **Twitter** (now X). By regularly checking hashtags like **#bugbounty** and **#bugbountytips**, you can stay updated with tips, insights, and real-world findings shared by security researchers around the world. These posts are often up-to-date and highly practical, making Twitter a great tool for continuous learning and staying informed about the latest trends in the bug bounty world.
+
+For each type of vulnerability, it’s highly recommended to start taking detailed notes from the very beginning. As your skills grow and your understanding deepens, **revisiting and iteratively improving your notes** will help reinforce your knowledge. This habit not only helps build a solid knowledge base but also enables quicker recall and more structured thinking during real-world testing.
