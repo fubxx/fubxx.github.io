@@ -27,3 +27,10 @@ https://www.intigriti.com/researchers/blog/hacking-tools
 The third learning method is through **Twitter** (now X). By regularly checking hashtags like **#bugbounty** and **#bugbountytips**, you can stay updated with tips, insights, and real-world findings shared by security researchers around the world. These posts are often up-to-date and highly practical, making Twitter a great tool for continuous learning and staying informed about the latest trends in the bug bounty world.
 
 For each type of vulnerability, it’s highly recommended to start taking detailed notes from the very beginning. As your skills grow and your understanding deepens, **revisiting and iteratively improving your notes** will help reinforce your knowledge. This habit not only helps build a solid knowledge base but also enables quicker recall and more structured thinking during real-world testing.
+
+Here are some additional learning resources that could be helpful for bug bounty hunting. 
+
+```
+https://github.com/swisskyrepo/PayloadsAllTheThings			# payload summary
+```
+
