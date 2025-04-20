@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Recon Skills for Beginners
-date: 2025-04-06 13:47:00.000000000 +08:00
+date: 2025-04-20 22:09:00.000000000 +08:00
 tags: 
  - Learning Resources
-
 ---
 
 This article documents excellent recon techniques
