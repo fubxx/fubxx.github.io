@@ -1,0 +1,15 @@
+---
+layout: post
+title: Recon Skills for Beginners
+date: 2025-04-06 13:47:00.000000000 +08:00
+tags: 
+ - Learning Resources
+
+---
+
+This article documents excellent recon techniques
+
+```
+https://github.com/amrelsagaei/Bug-Bounty-Hunting-Methodology-2025
+```
+
